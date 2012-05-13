@@ -1,0 +1,10 @@
+*vword.vim* for Vim
+
+VWord Colorscheme
+
+0. Coming Soon                                                     |vword-soon|
+
+=============================================================================
+0. Coming Soon                                                     *vword-soon*
+
+More documentation coming soon :)
